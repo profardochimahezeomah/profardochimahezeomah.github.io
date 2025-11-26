@@ -1,0 +1,29 @@
+.photo-grid {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 32px;            /* ← MORE SPACE BETWEEN COLUMNS */
+  margin-top: 20px;
+}
+
+.photo-grid figure {
+  width: 300px;
+  margin: 0;
+  text-align: center;  /* captions centered */
+  border: 2px solid lightgrey;    /* ← PLUM FRAME */
+  padding: 8px;              /* space between image and frame */
+  border-radius: 10px;       /* optional rounded corners */
+  background: #fff;          /* makes frame cleaner */
+}
+
+.photo-grid img {
+  width: 100%;
+  height: auto;
+  border-radius: 6px;
+}
+
+.photo-grid figcaption {
+  margin-top: 8px;
+  font-size: 14px;
+  color: #444;
+}
