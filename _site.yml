@@ -1,0 +1,16 @@
+name: "Professor Ardo Chimah Ezeomah"
+output_dir: "."
+navbar:
+  title: "Home"
+  right:
+    - text: "About"
+      href: about.html
+    - text: "Tributes"
+      href: tributes.html
+    - text: "Life in Pictures"
+      href: photo_gallery.html
+    - text: "Press Clippings"
+      href: press.html
+output:
+  html_document:
+    theme: flatly
