@@ -1,0 +1,14 @@
+---
+title: "Professional Life in Pictures"
+author: "Curated by Chiomah Ezeomah, B.A (Buffalo); B.Sc (Buffalo); MSc (Cornell); MSc (Oxford)"
+date: "`r Sys.Date()`"
+output:
+  html_document:
+    toc: true
+    toc_float: true
+    number_sections: true
+    theme: flatly          # MUST specify a theme for toc_float
+    css: "styles.css"
+---
+
+### Life in Picture

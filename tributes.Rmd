@@ -1,0 +1,30 @@
+---
+title: "Tributes in Honor of Professor Ardo Chimah Ezeomah"
+author: "Curated by Chiomah Ezeomah B.A. & B.Sc (Uni at Buffalo); MSc (Cornell); MSc (Oxford)"
+date: "`r Sys.Date()`"
+output:
+  html_document:
+    toc: true
+    toc_float: true
+    theme: flatly
+    bslib:
+      version: 5
+      primary: "#556B2F"
+      secondary: "#8B4513"
+      font: "Georgia"
+    css: "styles.css"
+---
+
+<style>
+.tribute-box {
+  border: 2px solid #8E4585;       /* plum border */
+  border-radius: 10px;             /* rounded corners */
+  background-color: #f9f9f9;       /* light gray background */
+  padding: 20px;                   /* space inside the box */
+  margin: 20px 0;                  /* space around the box */
+  box-shadow: 2px 2px 12px rgba(0,0,0,0.1); /* subtle shadow */
+}
+</style>
+
+
+### xxx
