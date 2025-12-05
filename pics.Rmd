@@ -1,0 +1,234 @@
+---
+title: "Professional Life in Pictures"
+author: "Curated by Chiomah Ezeomah, B.A (Buffalo); B.Sc (Buffalo); MSc (Cornell); MSc (Oxford)"
+date: "`r Sys.Date()`"
+output:
+  html_document:
+    toc: true
+    toc_float: true
+    number_sections: true
+    theme: flatly          # MUST specify a theme for toc_float
+    css: "styles.css"
+---
+
+<div class="tribute-box" style="text-align:center;">
+
+![Photo 4](images/pic4.jpg){width=300px}
+
+
+
+![Photo 6](images/pic6.jpg){width=300px}
+
+![Photo 7](images/pic7.jpg){width=300px}
+
+![Photo 8](images/pic8.jpg){width=300px}
+
+![Photo 9](images/pic9.jpg){width=300px}
+
+
+
+![Photo 10](images/pic10.jpg){width=300px}
+
+![Photo 11](images/pic11.jpg){width=300px}
+
+![Photo 12](images/pic12.jpg){width=300px}
+
+![Photo 13](images/pic13.jpg){width=300px}
+
+![Photo 15](images/pic15.jpg){width=300px}
+
+![Photo 16](images/pic16.jpg){width=300px}
+
+![Photo 17](images/pic17.jpg){width=300px}
+
+![Photo 18](images/pic18.jpg){width=300px}
+
+
+![Photo 20](images/pic20.jpg){width=300px}
+![Photo 21](images/pic21.jpg){width=300px}
+
+![Photo 22](images/pic22.jpg){width=300px}
+
+![Photo 23](images/pic23.jpg){width=300px}
+![Photo 24](images/pic24.jpg){width=300px}
+
+![Photo 25](images/pic25.jpg){width=300px}
+
+![Photo 26](images/pic26.jpg){width=300px}
+
+![Photo 27](images/pic27.jpg){width=300px}
+
+![Photo 28](images/pic28.jpg){width=300px}
+
+![Photo 29](images/pic29.jpg){width=300px}
+
+![Photo 30](images/pic30.jpg){width=300px}
+
+![Photo 31](images/pic31.jpg){width=300px}
+
+![Photo 32](images/pic32.jpg){width=300px}
+
+![Photo 33](images/pic33.jpg){width=300px}
+
+![Photo 34](images/pic34.jpg){width=300px}
+
+![Photo 35](images/pic35.jpg){width=300px}
+
+![Photo 36](images/pic36.jpg){width=300px}
+
+![Photo 37](images/pic37.jpg){width=300px}
+
+![Photo 38](images/pic38.jpg){width=300px}
+
+![Photo 39](images/pic39.jpg){width=300px}
+
+![Photo 40](images/pic40.jpg){width=300px}
+
+![Photo 41](images/pic41.jpg){width=300px}
+
+![Photo 42](images/pic42.jpg){width=300px}
+
+![Photo 45](images/pic45.jpg){width=300px}
+
+![Photo 49](images/pic49.jpg){width=300px}
+
+![Photo 50](images/pic50.jpg){width=300px}
+
+![Photo 53](images/pic53.jpg){width=300px}
+
+![Photo 54](images/pic54.jpg){width=300px}
+
+![Photo 55](images/pic55.jpg){width=300px}
+
+![Photo 56](images/pic56.jpg){width=300px}
+
+![Photo 58](images/pic58.jpg){width=300px}
+
+![Photo 59](images/pic59.jpg){width=300px}
+
+![Photo 61](images/pic61.jpg){width=300px}
+
+![Photo 62](images/pic62.jpg){width=300px}
+
+![Photo 63](images/pic63.jpg){width=300px}
+
+![Photo 64](images/pic64.jpg){width=300px}
+
+![Photo 65](images/pic65.jpg){width=300px}
+
+![Photo 67](images/pic67.jpg){width=300px}
+
+![Photo 68](images/pic68.jpg){width=300px}
+
+![Photo 69](images/pic69.jpg){width=300px}
+
+![Photo 70](images/pic70.jpg){width=300px}
+
+![Photo 71](images/pic71.jpg){width=300px}
+
+![Photo 72](images/pic72.jpg){width=300px}
+![Photo 73](images/pic73.jpg){width=300px}
+
+![Photo 74](images/pic74.jpg){width=300px}
+![Photo 75](images/pic75.jpg){width=300px}
+
+![Photo 76](images/pic76.jpg){width=300px}
+
+![Photo 78](images/pic78.jpg){width=300px}
+
+![Photo 80](images/pic80.jpg){width=300px}
+
+![Photo 81](images/pic81.jpg){width=300px}
+
+![Photo 83](images/pic83.jpg){width=300px}
+
+![Photo 84](images/pic84.jpg){width=300px}
+
+![Photo 85](images/pic85.jpg){width=300px}
+
+![Photo 86](images/pic86.jpg){width=300px}
+
+![Photo 87](images/pic87.jpg){width=300px}
+
+![Photo 88](images/pic88.jpg){width=300px}
+
+![Photo 90](images/pic90.jpg){width=300px}
+
+![Photo 91](images/pic91.jpg){width=300px}
+
+![Photo 92](images/pic92.jpg){width=300px}
+
+![Photo 93](images/pic93.jpg){width=300px}
+
+![Photo 95](images/pic95.jpg){width=300px}
+
+![Photo 96](images/pic96.jpg){width=300px}
+
+![Photo 99](images/pic99.jpg){width=300px}
+
+![Photo 100](images/pic100.jpg){width=300px}
+
+![Photo 103](images/pic103.jpg){width=300px}
+
+![Photo 104](images/pic104.jpg){width=300px}
+
+![Photo 105](images/pic105.jpg){width=300px}
+
+![Photo 106](images/pic106.jpg){width=300px}
+
+![Photo 107](images/pic107.jpg){width=300px}
+
+![Photo 108](images/pic108.jpg){width=300px}
+
+![Photo 109](images/pic109.jpg){width=300px}
+
+![Photo 110](images/pic110.jpg){width=300px}
+
+![Photo 111](images/pic111.jpg){width=300px}
+
+![Photo 112](images/pic112.jpg){width=300px}
+
+![Photo 113](images/pic113.jpg){width=300px}
+
+![Photo 114](images/pic114.jpg){width=300px}
+
+![Photo 115](images/pic115.jpg){width=300px}
+
+![Photo 117](images/pic117.jpg){width=300px}
+
+![Photo 120](images/pic120.jpg){width=300px}
+
+![Photo 121](images/pic121.jpg){width=300px}
+
+![Photo Pennells 1](images/image00001.jpeg){width=300px}
+![Photo Pennells 2](images/image00002.jpeg){width=300px}
+
+![Photo Pennells 3](images/image00003.jpeg){width=300px}
+
+![Photo Pennells 4](images/image00004.jpeg){width=300px}
+
+![Photo Pennells 5](images/image00005.jpeg){width=300px}
+
+![Photo Pennells 6](images/image00006.jpeg){width=300px}
+
+![Photo Pennells 7](images/image00007.jpeg){width=300px}
+
+![Photo Pennells 8](images/image00008.jpeg){width=300px}
+
+![Photo Pennells 9](images/image00009.jpeg){width=300px}
+
+![Photo Pennells 10](images/image00010.jpeg){width=300px}
+
+![Photo Pennells 11](images/image00011.jpeg){width=300px}
+
+![Photo Pennells 12](images/image00012.jpeg){width=300px}
+
+![Photo Pennells 13](images/image00013.jpeg){width=300px}
+
+![Photo Pennells 14](images/image00014.jpeg){width=300px}
+
+![Photo Pennells 15](images/image00015.jpeg){width=300px}
+
+![Photo Pennells 16](images/image00016.jpeg){width=300px}
+
+</div>

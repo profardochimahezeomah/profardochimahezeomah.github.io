@@ -3,12 +3,26 @@ output_dir: "."
 navbar:
   title: "Home"
   right:
+    - text: "Curator's Note"
+      href: curatorsnote.html
     - text: "About"
       href: about.html
     - text: "Tributes"
       href: tributes.html
     - text: "Life in Pictures"
       href: photo_gallery.html
+    - text: "Press Clippings"
+      href: press.html
+    - text: "Memorial Verses"
+      href: memorialverses.html
+    - text: "Awards"
+      href: awards.html
+    - text: "Ugadi"
+      href: ugadi.html
+    - text: "Students"
+      href: students.html
+    - text: "Acknowledgement"
+      href: acknowledgement.html
     - text: "Press Clippings"
       href: press.html
 output:

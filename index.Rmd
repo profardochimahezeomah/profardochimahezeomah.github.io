@@ -1,7 +1,7 @@
 ---
 title: "In Loving Memory of Distinguished Professor Ardo Chimah Ezeomah"
-author: "Curated by Chiomah Ezeomah, B.A (Buffalo); B.Sc (Buffalo); MSc (Cornell); MSc (Oxford)"
-date: "`r Sys.Date()`"
+author: "Curated by Chiomah Ezeomah, B.A (Uni at Buffalo); B.Sc (Uni at Buffalo); MSc (Cornell); MSc (Oxford)"
+date: "November 26, 2025"
 output:
   html_document:
     toc: true
@@ -16,8 +16,91 @@ output:
     css: "styles.css"
 ---
 
+
+<div class="hero-photo">
+  <img src="images/dadpic.jpg" alt="Professor Ardo Chimah Ezeomah">
+</div>
+
+
 ## Biography
 
+**Prof. Ardo Chimah Ezeomah**
+
+Professor (Ardo) Chimah Ezeomah, 93, passed away in Akure, Ondo State on September 14, 2025. He had an incredibly great sense of humor. He loved laughing, spending time with friends and family, good music, helping others and working with nomadic and migrant populations to provide equitable educational opportunities. He took great pleasure in teaching, mentoring and collaborating with colleagues in Nigeria and internationally to advance the cause of marginalized populations educationally.
+
+Born on 10 May 1932, Prof. Ardo Chimah Ezeomah was a distinguished Nigerian scholar, administrator, nation-builder, humanitarian, colleague, mentor, and loving son, husband, father, grandfather, brother, uncle and friend. His life’s work built bridges of opportunities for the nomadic child, widening access to quality education without uprooting their culture or livelihood. After early teaching appointments that honed his gift for mentorship, he earned a B.A. Ed. (History/English) from the University of Nigeria, Nsukka (1964–1967), an M.Ed. in Administration & Planning from Ahmadu Bello University, Zaria (1973–1975), and a Ph.D. in Educational Planning from the University of Jos (1976–1980). He rose from classroom teacher and principal to Lecturer I, Associate Professor, and ultimately Professor of Educational Administration & Planning at the University of Jos.
+
+From his humble beginnings as a classroom teacher at ECWA Teachers' College, Kaltungo; Enuda College, Abiriba; and S.I.M. Girls’ Secondary School, Kwoi, to his tenure as Principal of Community Secondary School, Nassarawa, he inspired future generations of leaders. He later joined the Institute of Education at ABU as Lecturer I, and most enduringly, the University of Jos, where he shaped countless students and scholars. A true trailblazer, his scholarship broke new ground in the education of nomadic peoples, particularly the Fulani, producing influential books, monographs, and policy papers that combined rigorous research with profound human empathy. This not only earned him the title of Ardo, meaning leader, conferred by the pastorialist Fulani, but also the esteemed title of founding father of nomadic education in Nigeria. In 1982, UNESCO/UNDP honoured him with the Paul G. Hoffman International Award for his “outstandingly significant” contribution to designing learning for nomadic families, a global recognition for a life devoted to access and equity.
+
+His interest in nomadic education took root in the early 1970s while teaching in Northern Nigeria, where he often enjoyed his conversations with pastoral Fulanis while purchasing fura da nono, listening, and learning more about them. He recognised a brilliant, resilient people and envisioned educational platforms integrated with their daily movements and social structures. He theorized, and later demonstrated, that aligning schooling with pastoral life would enable equitable access without disrupting socio-economic realities, leading to higher success rates. After his master’s programme at ABU Zaria, he committed his career to developing effective methods and policies for nomadic education. His Ph.D. investigated strategies for educating nomadic pastoral Fulɓe (Fulani), and his sustained research through the late 1970s and early 1980s attracted UNDP/UNESCO support (1984–1989) to the University of Jos, culminating in a suite of technical reports, implementation guides, and policy frameworks that informed practice nationwide. Notable collaborators on this UNDP/UNESCO project included: Adepotu A.A., Ukachi L.A., Onwuzuruike; Sikoki B.S., Lar M., Alaezi O., Dalli A.L., Joof A.F., Diallo A., Amali E., Egbe E.N., Ihemegbulam V.C. He then served as the inaugural director and head of research at the Center for Nomadic Education, University of Jos. 
+
+These pioneering efforts helped spur the establishment of the National Commission for Nomadic Education (NCNE) in Kaduna, where he answered the call to national service as the inaugural Executive Secretary (1990–1994). He later served as Dean, Faculty of Education, University of Jos (1995–1997), and sat on the University’s governing council, leading with integrity and vision. A member of numerous national and international scholarly bodies, he carried Nigeria’s scholarship onto the world stage while remaining rooted in community service at home. Beyond his intellectual accomplishments lay an uncommon grace: the ability to connect with anyone, to build and sustain relationships, and to touch many through devotion and kindness.
+
+Ardo was a humanitarian at heart. Beyond scholarship, he was a man of uncommon generosity. Newspaper accounts recalled how Fulani students lived under his roof in Jos, fed, mentored, and sponsored through school without discrimination. His home became a haven for those in need, and his ability to connect across ethnicity, class, or religion was legendary.
+
+A devoted husband and father of eight children and one stepson, he lived the values he taught: discipline, compassion, and steadfast faith. He was also the father to over 12 adopted children including more than 3 Fulani sons. He was an umbrella that gave many shelter from the rains of life.  His legacy endures in the NCNE he helped to establish, the nomadic schools he nurtured, the policies he shaped, the books that still guide practitioners, and the many lives he lifted. Prof. Ezeomah walked softly but left deep footprints in moving sands: footprints of justice, equity, access, knowledge, and love of neighbour.
+
+## Timeline
+
+**1930s–1950s: Early Life & Foundations**
+
+1932 – Born in Umuahia, Imo State (then Eastern Region, present-day Abia State).
+Undated - Elementary School in Umuagu, Umuahia, present-day Abia State. (might have been in the 1940s)
+1950–1952 – Completed primary education in Otukpo, Benue Province, where early interactions with nomadic Fulani cattle rearers first sparked his lifelong interest in their wellbeing. (Newspaper article)
+1955–1957 – Trained at ECWA Teachers College, Kaltungo, Northern Region (present-day Gombe State).
+1958 – Awarded Teachers Certificate Grade III by the Ministry of Education, Northern Region.
+
+**1958–1963: Early Teaching & Further Qualifications** 
+
+1958–1961 – Began teaching career at ECWA Teachers College, Kaltungo.
+1962 – Earned Higher Elementary (Grade II) Teachers Certificate with multiple merits (English, Science, PHE, Rural Science, etc.).
+1962 – Passed GCE O’ Level (Geography, Religious Knowledge, Biology).
+1963 – Passed GCE A’ Level (History, Religious Knowledge).
+
+**1964–1967: University Education & First Degrees**
+
+1964–1967 – Attended University of Nigeria, Nsukka; earned B.A. Ed (Hons.) in History/English.
+1964 – Passed additional GCE O’ Level (Economics, English Language).
+
+**1967–1974: Postgraduate Pursuits & School Leadership**
+
+1967–1969 – Classroom Teacher, Enuda College, Abiriba, Eastern Region (present-day Abia State).
+1970–1971 – Classroom Teacher/Vice Principal, SIM Girls’ Secondary School, Kwoi, North-Central State (present-day Kaduna).
+Began Adult Education Work for nomadic Fulani. 
+1971 – Introduced Adult Education Classes among nomadic Fulani communities in Nassarawa and Miango.
+He selected the brightest participants to teach others basic literacy. (Newspaper article: The Standard, Sept 3, 1988)
+1972–1974 – Principal, Community Secondary School, Nassarawa, Benue-Plateau State (present-day Nassarawa State).
 
 
+**1973–1983: Academic Rise & Pioneering Nomadic Education Research** 
+
+1973–1975 – M.Ed. (Administration & Planning), Ahmadu Bello University, Zaria.
+1974–1976 – Lecturer I, ABU Institute of Education, ATC Zaria.
+1976 – Appointed Lecturer I, Faculty of Education, University of Jos.
+1976–1980 – Ph.D., Educational Planning, University of Jos.
+Late 1970s–Early 1980s – Continued community literacy programmes for nomadic communities in Nassarawa and Miango. (Newspaper article)
+1983 – Promoted to Reader/Associate Professor, University of Jos.
+
+**1984–1994: National & International Leadership in Nomadic Education**
+
+1984–1988 – Chief Technical Adviser (CTA), UNESCO/UNDP Research Programme on Education of Nomadic Families.
+1986–1989 – Adviser to the Federal Ministry of Education on Nomadic Education.
+1987 – Nationwide launch of Nigeria’s Nomadic Education Programme, informed heavily by his research.
+1988 – Appointed member, National Advisory Committee on Nomadic Education (31-member body inaugurated by Prof. Jibril Aminu).
+1990–1994 – First Executive Secretary, National Commission for Nomadic Education (NCNE), Kaduna.
+
+**1995–2002: Senior Academic Leadership & National Service** 
+
+1995 – Consultant, UNESCO Regional Seminar/Workshop on Education of Nomads in Anglophone Africa.
+1995–1999 – Consultant, DFID Community Education Programme for Nomads in Nigeria.
+23 Feb 1995 – 3 March 1997 – Dean, Faculty of Education, University of Jos.
+1997–1998 – Head of Department, Arts & Social Sciences Education (now Educational Foundations), University of Jos.
+May 2000 – 2 August 2002 – Member, Governing Council, University of Jos.
+1991 – Promoted to Professor of Educational Administration & Planning, University of Jos.
+
+**2003–2025: Final Academic Years, Mentorship & Legacy** 
+
+2003 – Concluded formal tenure as Professor at University of Jos; continued mentorship, research, community engagement, and advisory work.
+2004–2025 – Remained a guiding figure in nomadic education policy and academic circles.
+14 September 2025 – Passed away, leaving a generational legacy that transformed educational access for Nigeria’s nomadic populations.
 

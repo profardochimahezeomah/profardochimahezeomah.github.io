@@ -1,0 +1,21 @@
+---
+title: "Ugadi: Beloved Mother and Enabler"
+author: "Curated by Chiomah Ezeomah, B.A (Uni at Buffalo); B.Sc (Uni at Buffalo); MSc (Cornell); MSc (Oxford)"
+date: "November 26, 2025" 
+output: 
+  html_document:
+    toc: true
+    toc_float: true
+    theme: flatly
+    css: "styles.css"
+---
+
+## Ugadi's Footprints
+
+Behind every great story stands an unsung hero, and in the life of Prof. Ardo Chimah Ezeomah, that hero was his mother, Ugadi, a woman of quiet strength, fierce love, and unwavering conviction. In his early childhood, Prof. Ezeomah was frail and frequently ill, the kind of sickness that, in many families, might have ended a child’s schooling before it ever truly began. But not under the watch of Ugadi. She refused to accept that ill health would limit her son’s mind, future, or destiny.
+
+Determined that he would receive an education like every other child, she approached the headmaster of the village school and proposed an extraordinary arrangement. Each morning, she would carry young Chimah on her back to the school, gently lay him beneath a tree, and the headmaster, true to their agreement, would come out to lift him into the classroom so he could learn. Day after day, she made that journey, her footsteps carving out the path that would eventually lead her son from that village classroom to the pinnacle of academia.
+
+Through her courage and devotion, Ugadi became the first architect of Ardo’s educational journey. She was a loving mother, but she was also an enabler of destiny, a woman who believed in her son’s potential long before the world ever knew his name. It was her refusal to let illness define him that set him on the course toward becoming a teacher, scholar, professor, pioneer, and nation-builder.
+
+Prof. Ezeomah’s towering achievements stand as a living testament to the power of a mother’s resolve. Without Ugadi’s boldness, faith, and sacrificial love, his story, and the countless lives he impacted, would have taken a different path. Her legacy lives on not only in him, but in every child who benefits from the doors of education he helped open.

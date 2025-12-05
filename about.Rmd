@@ -1,11 +1,224 @@
 ---
 title: "About Professor Ardo Chimah Ezeomah"
-author: "Chiomah Ezeomah"
+author: "Curated by Chiomah Ezeomah, B.A (Uni at Buffalo); B.Sc (Uni at Buffalo); MSc (Cornell); MSc (Oxford)"
+date: "November 26, 2025" 
 output: 
   html_document:
     toc: true
     toc_float: true
     theme: flatly
+    css: "styles.css"
 ---
 
+<div class="rect-photo">
+  <img src="images/dadacad.jpg" alt="Professor Ardo Chimah Ezeomah">
+</div>
+
+
 ## University Education
+
+(a)	University of Nigeria, Nsukka (1964-1967); B. A. Ed. (Hons) History/English
+(b)	A.B.U. Zaria (1973 – 1975); M. Ed. Admin & Planning
+(c)	University of Jos (1976 – 1980); Ph.D Educational Planning
+
+
+## Theses
+
+1.	Student Unrest in Post-Primary Institutions in Benue State, M.Ed. Project, Faculty of Education, ABU, Zaria 1975, 200 pages. 
+2.	Investigation into Strategies for Developing Cattle Fulani Education in Bauchi State, Ph.D. Thesis, Faculty of Education, University of Jos, 1980, 350 pages.
+
+
+## Teaching Experience
+
+1.	ECWA Teachers' College, Kaltungo, 1958-1961, Classroom Teacher
+2.  Enuda College, Abiriba,	1967-1969	Classroom Teacher
+3.	SIM Girls Secondary School, Kwoi,	1970-1971	Classroom Teacher and Vice Principal
+4.	Community Secondary School, Nassarawa,	1972-1974	Principal
+5.	ABU Institute of Education, ATC Zaria,	1974-1976	Lecturer I
+6.	University of Jos	1976-1991	Associate Professor (1983)
+7.	University of Jos	1991-2003	Professor (1991)
+
+
+## Scholarships, Fellowship, Prizes, and Awards
+
+1. S.I.M. Scholarship for first degree
+2. Best student prize, Igbaja S.I.M. Teachers College – a set of world book Encyclopedia. 
+3. University of Nigeria, Nsukka, Alumni Award of Excellence (April 16, 1994)
+
+## Honours and Distinction 
+
+UNESCO/UNDP Award: Paul G. Hoffman International Award, 1982, “for outstandingly significant unique contribution to knowledge of how best to set up programmes of learning for nomadic families. 
+
+(a)	Cash: $5,000
+
+(b)	Citation
+
+(c)	Plaque
+
+## Membership of Learned Societies 
+
+**1.	National Societies:** 
+
+(a)	National Education Studies Association
+
+(b)	Nigeria Association for Education Administration and Planning (NAEAP)
+
+(c)	Curriculum Organisation of Nigeria. 
+
+**2.	International Societies:** 
+
+(a)	World Council for Curriculum and Instruction (WCCI), USA
+
+(b)	Commonwealth Human Ecology Council (CHEC), England
+
+(c)	Association of Curriculum Theorizing, USA
+
+(d)	International Council for Distance Education, Australia
+
+
+## Teaching Experience at University Level
+
+**1.	Undergraduate Courses:** 
+
+(a)	Educational Administration
+
+(b)	Supervision of teaching practice 
+
+(c)	Supervision of undergraduate projects
+
+**2.	M.Ed Courses:** 
+
+(a)	Educational Supervision
+
+(b)	Educational Planning Theory
+
+(c)	School plant
+
+(d)	Supervision of Projects
+
+**3.	Ph.D.** 
+
+(a). Supervision of Ph.D Candidates
+
+
+## Research Completed
+
+(a)	Students unrest in Nigeria Post-Primary Schools 1975-1977
+(b)	The Attitude of Cattle Fulani Towards Formal Education, 1977-1978
+(c)	Strategies for Developing Cattle Fulani Education in Bauchi State, 1980
+(d)	Nomadic Fulani Child in Regular Schools: Attendance, Adjustment and Achievement, 1982
+(e)	Settlement, Health and Communication Problems of the Nomadic Fulani and Their Implication for Education Development, 1983
+(f)	Determination of Educational Priorities and Implementation of Secondary Education in Northern State, 1983. 
+(g)	School Plant Development in Plateau State and its Effects on Teaching and learning, 1984. 
+(h)	The Work Roles of Nomadic Fulani Women and the Implication for Educational Development, 1984-1985
+(i)	Community factors, Development, Fertility and Family Planning: A case study of Nomadic Fulani Familes in Wase (Plateau State) Grazing Reserves, 1986. 
+(j)	UNESCO/UNDP Education of Nomadic Families (Plateau, Bauchi, and Gongola States), 1984-1988. 
+(k)	Statistical Survey of Nomads in Ten Northern States of Nigeria, 1988-1989.
+(l)	A survey of the settlement patterns of total movement Nomads in Numan LGA, (Adamawa State), Lau LGA (Taraba State), 1996. 
+(m)	Grazing Reserves Assessment in Northern Nigeria States. 1998. 
+
+## Publications
+
+**Books**
+
+1.	Ezeomah, C. (1977) Revolts in Nigerian Post-Primary Schools: Some Administrative Causes and Remedies. Freemans Press Ltd., Enugu. pp 104
+2.	Ezeomah, C. (1983) The Education of the Nomads: The Fulani of Northern Nigeria: Nafferton Educational Studies Publishers, and the Deanhouse Center; Stoke-on-Trent, England. pp 142; [UNESCO Digital Library](https://unesdoc.unesco.org/ark:/48223/pf0000168691); [Stanford University](https://searchworks.stanford.edu/view/1582606); [Google Books](https://books.google.com.ng/books/about/Nomadic_Education_in_Nigeria.html?id=-Bm40F9-ltUC&redir_esc=y)
+3.	Ezeomah, C. (1987) The Settlement Patterns of Nomadic Fulani in Nigeria: Implications for Educational Development. Deanhouse Ltd, London. pp 167; [UNESCO Digital Library](https://unesdoc.unesco.org/ark:/48223/pf0000244450); [Open Library](https://openlibrary.org/works/OL4231166W/The_settlement_patterns_of_nomadic_Fulbe_in_Nigeria?edition=key%3A/books/OL1655324M&mode=all); [Universiteit Leiden](https://catalogue.leidenuniv.nl/discovery/fulldisplay?vid=31UKB_LEU:UBL_V1&search_scope=lib_asc&tab=LeidenCollection&docid=alma9939082340102711&lang=en&context=L&adaptor=Local%20Search%20Engine&isFrbr=true&query=any,contains,9939071045302711)
+4.	Ezeomah, C. (1985) Strategies for Training Nomadic Teachers in Nigeria. A chapter in the Commonwealth Casebook for Administrators in Post-Secondary Schools. Commonwealth Council for Education Administration, London. pp 125-137; [Commonwealth iLibrary](https://www.thecommonwealth-ilibrary.org/index.php/comsec/catalog/book/894)
+5.	Ezeomah, C. (1990). Educating Nomads for Self-actualization and Development. UNESCO International Bureau for Education, Geneva. [UNESCO Digital Library](https://unesdoc.unesco.org/ark:/48223/pf0000086569); [U.S. Department of Education](https://eric.ed.gov/?id=ED321066)
+6.	Ezeomah, C. (1991). (Ed.) A Handbook for Teachers in Nomadic Schools. National Commission for Nomadic Education Publication, Kaduna, Nigeria. 
+7. Ezeomah, C. (1997) (Ed.) The Education of nomadic populations in Africa, v. 1. UNESCO Regional Office for Education in Africa (Senegal). [UNESCO Digital Library](https://unesdoc.unesco.org/ark:/48223/pf0000109192)
+8.	Ezeomah, C. (1998) (Ed.) The Education of Nomads in Anglophone Africa. UNESCO Regional Office, Dakar. 
+9.	Ezeomah C, Akpan U.U. E, Oyetunde T.O. (1999) (Eds.) Innovative Approaches to Education and Human Development, Vol. 4. LECAPS Publishers. P 181-186
+
+### Monographs and Technical Documents
+
+**Monographs**
+
+10.	Ezeomah, C. (1979-1980). Strategies for Developing Nomadic Fulani Education in Bauchi State (A Study Conducted for Bauchi State Ministry of Education).
+11. Stragegies for Training Nomadic Teachers in Nigeria. [Commonwealth iLibrary](https://www.thecommonwealth-ilibrary.org/index.php/comsec/catalog/download/894/894/7579?inline=1); NOTE TO SELF - add pdf
+12.	Ezeomah, C. (1985) Work Roles of Nomadic Fulani Women: Implications for Educational Development. 140 pages
+13.	Hesse, C., Ezeomah, C., Hassan U. A. and Ardo Aliyu Alhaji (1998). An Assessment of the Organisational Effectiveness of Pastoral Organisations in Northern Nigeria. A Report prepared for the Department of International Development (DFID). 
+
+**Technical Documents** 
+
+14.	Ezeomah, C. Adepotu A.A. Ukachi L. A., Onwuzuruike, B.S. Sikoki (1988). Statistical Survey of Nomads in Ten Northern States, Faculty of Education, University of Jos. 
+15.	Ezeomah, C, Lar M. Alaezi O. (1988). Education of Nomadic Families: Education Aspect Vol. 1. UNDP/UNESCO//University of Jos Project. 
+16.	Ezeomah, C. Dalli A.L. (1988) Education of Nomadic Families Social/Cultural Aspect. Vol 2 UNDP/UNESCO/University of Jos Project. 
+17.	Ezeomah, C, Joof A.F., Diallo A. Amali E. (1988) Education of Nomadic Families: Economic Aspect. Vol. 3. UNDP/UNESCO/University of Jos Project. 
+18.	Ezeomah C. Egbe E. N. (1988) Education of Nomadic Families: Language and Communication Aspect. Vol 4. UNDP/UNESCO/University of Jos Project. 
+19.	Ezeomah C., Adepelu A.A., Ihemegbulam V.C., Sikoki B.S. (1988) Education of Nomadic Families: Demographic Aspect. Vol. 5. UNDP/UNESCO/University of Jos Project.
+
+**Articles** 
+
+20.	Ezeomah, C. (1978), Educating the Nomads: The Attitude of Cattle Fulani Towards Education. Journal of Commonwealth for Educational Administration, Australia. No. 12 September, pp 1-10
+21.	Ezeomah, C. (1978), The Implication of National Policies on Secondary Education; 1977 and 1978. Journal of Nigerian Association of Educational Administration and Planning. Convention and Workshop Papers. pp 111-123. 
+22.	R. Jackson and E. Chimah (1979) “Self-help and Education in a World of change – the Case of the Fulani Na’i New Era Education: Tension in World and School. Journal of the World Education Fellowship. Vol. 60, No. 2 March/April. England. pp 66 – 70
+23.	Ezeomah, C. (1979) “The Constraints on Cattle Fulani Education and the Role of the Educational Planner.” South Australia Journal of Educational Research. Vol. 1 No. 2, Australia, 1979. pp 43 – 52
+24.	Ezeomah, C. (1980) “Formal Education: A Means of Improving Nomadic Fulani Lifestyle” World Council for Curriculum and Instruction conference Proceedings Philippines. 1980. pp 24 – 28
+25.	Ezeomah, C. and Udoh S. (1982) Enrolment Problems in Post-Primary Institutions; Implications for Educational Administrators and Planners. Journal of the Nigerian Association for Educational Administration and Planning. Vol. 2, No. 1, 1982. pp 6 – 15
+26.	Ezeomah, C. (1982) The Development of Nomadic Fulani Education in Nigeria. Innovation UNESCO International Education Reporting Service. Geneva, No. 35/36. pp 5-8
+27.	Ezeomah, C. (1982) Movements and Demography of Fulani Nomads and their Implication for Education Development. The Proceedings of the 1st Annual Conference on the Education of Nomads in Nigeria. 1982. pp 16 – 24
+28.	Ezeomah, C. (1982) The Nomadic Fulani Child in Regular Schools: Attendance Adjustment and Achievement. The Proceedings of the 1st Annual Conference on the Education of Nomads in Nigeria. pp 102 – 107
+29.	Ezeomah, C. (1983) Curriculum Development for Nomadic Primary Education. Report on a Seminar. Commonwealth Human Ecology Council Journal. England. No. 6 1983 pp 9 – 12
+30.	Ezeomah, C. (1983) The Problem of Administering Nomadic Schools in Ningi Local Government Area, Bauchi State. Journal of Nigerian Education and Research Council. Vol. 3, No. 2, July 1983. pp 169 – 182
+31.	Ezeomah, C. (1983) The Nomadic Fulani Educational Radio Programme in Plateau State. Convergence the Journal of International Council for Adult Education. Toronto, Canada No. 2, July 1983. pp 59 – 64
+32.	Ezeomah, C. (1984) Using Educational Planning Strategy for Functional Curriculum Development. Journal of Curriculum Organization of Nigeria. Vol. II No. 1. Ibadan pp 9 – 15
+33.	Ezeomah, C (1985) Land Tenure Constraints Associated with some Recent Experiments to Bring Formal Education to Nomadic Fulani in Nigeria. Pastoral Development Network a Journal of Overseas Development Institute, London. pp 1 – 19
+34.	Ezeomah, C. (1985) Participation in the Education of Mobile Minority Groups: The Nomadic Fulani of Nigeria. International Journal of Nomadic and Minority Education, Staffordshire, England. pp 6 – 10
+35.	Ezeomah, (1998). Redemptive Egalitarianism as a strategy for Equalising educational opportunities: The case of nomads in Nigeria. Journal of Nomadic Studies. Vol 1. No. 1. National Commission for Nomadic Education: Kaduna. 
+36.	Pennells, Jason and Ezeomah, Chimah (2000) Basic Education for Refugees and Nomads. Chris Yates and Jo Bradley. Basic Education at a Distance. Vol. 2. The Commonwealth of Learning, London & New York.
+37.	Ezeomah, C. (1986) The Development of a Special, Type of Curriculum for Nomads of Nigeria. The Journal of Curriculum Theorizing. University of Wisconsin – Stout, USA pp 45 – 55
+38.	Ezeomah, C. (1987) Incorporating Education into Integrated Rural Development Scheme in Nomadic Fulbe Community. International Journal of Nomadic and Minority Education, Deanhouse Ltd, Cheshire, England. Vol I No 2. pp 1 – 17
+
+## Unpublished Works
+
+1. Ezeomah , C, Strategies for Developing Nomadic Education in Bauchi State: A Research Report Submitted to the Ministry of Education Bauchi State,
+(Unpublished, University of Jos, May 1980) p. 80.
+
+
+## Conferences Attended and Papers Presented
+
+1.	Education Studies Association Conference, University of Ibadan, December 1976. Cause of Students Revolts in Nigerian Post-Primary Schools. 
+2.	Education Studies Association Conference, Ife University, December 1977. The Attitude of Cattle Fulani Towards Formal Education. 
+3.	Nigerian Association for Educational Administration and Planning (NAEAP), Ministry of Education, Jos. February 1978. Paper Presented: The Implications of National Policy on Secondary Education. 
+4.	Nigerian Association for Educational Administration and Planning (NAEAP), Ilorin 1980. Paper Presented: Post-Primary Admission Policy: The Problem of Quota System. 
+5.	World Council for Curriculum Instruction. The Third Triennial World Conference on Education, Philippines. Dec. 1980 – Jan. 1981. Paper Presented: Formal Education: A Means for Improving Nomadic Fulani Lifestyle. 
+6.	Annual Conference on the Education of Nomads in Nigeria, University of Jos, February 5 – 6, 1982. Papers Presented: 
+(a)	“Movements and Demography of Fulani Nomads and their Implication for Educational Development.” 
+(b)	“The Nomadic Fulani Child in Regular Schools: Attendance, Adjustment and Achievement.” 
+7.	ASCD/WCCI Conference in Anahim, California, U.S.A. March 16 – 19, 1982. Paper Presented: “The Development of Special Type Curriculum for Nomadic Education.” 
+8.	Curriculum Organisation of Nigeria, University of Jos. 1983. Paper Presented: “The Learning Style of the Nomadic Child and its Implication for Curriculum Development.” 
+9.	WCCI Conference in Edmonton, Canada, July 26 to August 4, 1983. “Functional Curriculum Development. A Means of Retaining Nomadic Fulani Cultural Identity.”
+10.	African Studies Centre Seminar, Michigan State University, U.S.A. 27 September, 1983. Paper Presented: The Settlement Problems of Nomadic Fulani and Their Implication for Education Development.” 
+11.	Commonwealth Human Ecology Conference. National Institute of Administration, Delhi, India. 28 – 31 January 1985.” Work Roles of Nomadic Fulani Women and Their Implication for Economic and Educational Development.” 
+12.	Centre for the Study of Nigeria Languages 3rd Fulfulde International Conference, Bayero University, Kano. Paper Presented: “Commercialization of Nomadic Fulbe Pastorialism and Educational/Training Imperatives. 14 September, 1985
+13.	National Workshop on Mobile Education for Nomads, Yola, Gongola State, 4th – 6th November, 1986. Paper Presented: “The Problem of Educating Nomads in Nigeria.” 
+14.	Federal Ministry of Education, Lagos. Workshop on the Education of Nomads in Nigeria. Yola 4 – 6 November 1986. “The Problem of Educating the Nomadic Fulbe in Nigeria”
+15.	Rights and Humanity’s 1st Pan-African consultation on the rights of economically and socially disadvantaged people in Africa. Faculty of Law, University of Jos. Paper Presented: Rights of the Rural Populace to Basic Necessities with particular reference to Nomadic peoples. 
+16.	Nigerian Association of Agricultural Education 1987 Annual National Conference, University of Jos, Makurdi Campus, 10-14 November, 1987. Paper Presented: Agricultural Education for Nomads. 
+17.	Round Table Conference on the Complementarity of Formal and Non-Formal approaches at Primary Education Level, Hamburg, Germany 1-4 October, 1990. Paper Presented: Distance Education for Nomads in Nigeria. 
+18.	Communication for Adult Basic Learning Seminar in Accra, Ghana, 2nd – 4th March 1995. Paper Presented: Communication Network within Nomadic Fulbe Cultural Setting.
+
+
+## National and International Responsibilities
+
+1.	Executive Editor of International Journal of Nomadic and Minority Education, Deanhouse Ltd. England. 
+2.	National Chief Technical Adviser (CTA) on UNESCO/UNDP Education of Nomadic Families Project, attracted to the University by my research and practical work in this field since 1976. 
+3.	Chief Technical Adviser (CTA) on UNESCO/UNDP Research Programme on the Education of Nomadic Families in Nigeria (1984 – 1988) 
+4.	Adviser to the Federal Ministry of Education on the Development of Nomadic Education (1986 – 1989).
+5.	First Executive Secretary, National Commission for Nomadic Education (1990 – 1994)
+6.	Consultant, UNESCO Regional Seminar/Workshop on the Education of Nomads in Anglophone Africa (1995)
+7.	Consultant, DFID Community Education Programme for Nomads in Nigeria (1995-1999)
+8.	Dean of Education, Faculty of Education, University of Jos, Jos, Nigeria ( 23rd February 1995 – March 3, 1997) 
+9.	Head, Department of Arts and Social Science Education, Faculty of Education, University of Jos, 1997 - 1998
+10. University of Jos Senate representative to the University Governing Council; Member May 2000 - August 2, 2002
+
+## Community Service
+
+1.	Participation in the Organisation of Adult Education Programme for Nomadic Fulani in Miango, Bassa LGA, Safo, Gimbi and Damna, Wase LGA, Plateau State. 1971 - ?
+2.	Member of Junior Staff Screening Committee, University of Jos. 1986
+3.	Member of Committee on the Reorganisation of the Educational System, Plateau State 1986.
+4.	Coordinator of the Launching of Nomadic Education – Nationwide. 1987
+
+

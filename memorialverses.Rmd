@@ -1,0 +1,26 @@
+---
+title: "About Professor Ardo Chimah Ezeomah"
+author: "Curated by Chiomah Ezeomah, B.A (Uni at Buffalo); B.Sc (Uni at Buffalo); MSc (Cornell); MSc (Oxford)"
+date: "November 26, 2025" 
+output: 
+  html_document:
+    toc: true
+    toc_float: true
+    theme: flatly
+    css: "styles.css"
+---
+
+## Psalm 24:7-10
+
+“¶Lift up your heads, O gates, And be lifted up, ancient doors, That the King of glory may come in. Who is the King of glory? The Lord strong and mighty, The Lord mighty in battle. Lift up your heads, O gates, And lift them up, ancient doors, That the King of glory may come in. Who is [He then] this King of glory? The Lord of hosts, He is the King of glory [who rules over all creation with His heavenly armies]. Selah.”
+
+## Revelation 14:13
+
+“Then I heard [the distinct words of] a voice from heaven, saying, “Write, ‘Blessed (happy, prosperous, to be admired) are the dead who die in the Lord from now on!’ ” “Yes, [blessed indeed],” says the Spirit, “so that they may rest and have relief from their labors, for their deeds do follow them.”
+
+## 1 Corinthians 15:50-58
+
+“Now I say this, believers, that flesh and blood cannot inherit nor be part of the kingdom of God; nor does the perishable (mortal) inherit the imperishable (immortal). Listen very carefully, I tell you a mystery [a secret truth decreed by God and previously hidden, but now revealed]; we will not all sleep [in death], but we will all be [completely] changed [wondrously transformed], in a moment, in the twinkling of an eye, at [the sound of] the last trumpet call. For a trumpet will sound, and the dead [who believed in Christ] will be raised imperishable, and we will be [completely] changed [wondrously transformed]. For this perishable [part of us] must put on the imperishable [nature], and this mortal [part of us that is capable of dying] must put on immortality [which is freedom from death]. And when this perishable puts on the imperishable, and this mortal puts on immortality, then the Scripture will be fulfilled that says, “Death is swallowed up in victory (vanquished forever). [Is 25:8] O death, where is your victory? O death, where is your sting?” [Hos 13:14] The sting of death is sin, and the power of sin [by which it brings death] is the law; but thanks be to God, who gives us the victory [as conquerors] through our Lord Jesus Christ. Therefore, my beloved brothers and sisters, be steadfast, immovable, always excelling in the work of the Lord [always doing your best and doing more than is needed], being continually aware that your labor [even to the point of exhaustion] in the Lord is not futile nor wasted [it is never without purpose].”
+
+
+
