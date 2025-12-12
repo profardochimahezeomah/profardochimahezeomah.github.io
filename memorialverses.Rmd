@@ -1,5 +1,5 @@
 ---
-title: "About Professor Ardo Chimah Ezeomah"
+title: "Memorial Verses for Professor Ardo Chimah Ezeomah"
 author: "Curated by Chiomah Ezeomah, B.A (Uni at Buffalo); B.Sc (Uni at Buffalo); MSc (Cornell); MSc (Oxford)"
 date: "November 26, 2025" 
 output: 

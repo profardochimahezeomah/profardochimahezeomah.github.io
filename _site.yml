@@ -23,8 +23,6 @@ navbar:
       href: students.html
     - text: "Acknowledgement"
       href: acknowledgement.html
-    - text: "Press Clippings"
-      href: press.html
 output:
   html_document:
     theme: flatly

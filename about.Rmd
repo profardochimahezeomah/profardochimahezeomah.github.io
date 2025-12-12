@@ -15,20 +15,20 @@ output:
 </div>
 
 
-## University Education
+### University Education
 
 (a)	University of Nigeria, Nsukka (1964-1967); B. A. Ed. (Hons) History/English
 (b)	A.B.U. Zaria (1973 – 1975); M. Ed. Admin & Planning
 (c)	University of Jos (1976 – 1980); Ph.D Educational Planning
 
 
-## Theses
+### Theses
 
 1.	Student Unrest in Post-Primary Institutions in Benue State, M.Ed. Project, Faculty of Education, ABU, Zaria 1975, 200 pages. 
 2.	Investigation into Strategies for Developing Cattle Fulani Education in Bauchi State, Ph.D. Thesis, Faculty of Education, University of Jos, 1980, 350 pages.
 
 
-## Teaching Experience
+### Teaching Experience
 
 1.	ECWA Teachers' College, Kaltungo, 1958-1961, Classroom Teacher
 2.  Enuda College, Abiriba,	1967-1969	Classroom Teacher
@@ -39,13 +39,13 @@ output:
 7.	University of Jos	1991-2003	Professor (1991)
 
 
-## Scholarships, Fellowship, Prizes, and Awards
+### Scholarships, Fellowship, Prizes, and Awards
 
 1. S.I.M. Scholarship for first degree
 2. Best student prize, Igbaja S.I.M. Teachers College – a set of world book Encyclopedia. 
 3. University of Nigeria, Nsukka, Alumni Award of Excellence (April 16, 1994)
 
-## Honours and Distinction 
+### Honours and Distinction 
 
 UNESCO/UNDP Award: Paul G. Hoffman International Award, 1982, “for outstandingly significant unique contribution to knowledge of how best to set up programmes of learning for nomadic families. 
 
@@ -55,7 +55,7 @@ UNESCO/UNDP Award: Paul G. Hoffman International Award, 1982, “for outstanding
 
 (c)	Plaque
 
-## Membership of Learned Societies 
+### Membership of Learned Societies 
 
 **1.	National Societies:** 
 
@@ -76,7 +76,7 @@ UNESCO/UNDP Award: Paul G. Hoffman International Award, 1982, “for outstanding
 (d)	International Council for Distance Education, Australia
 
 
-## Teaching Experience at University Level
+### Teaching Experience at University Level
 
 **1.	Undergraduate Courses:** 
 
@@ -101,7 +101,7 @@ UNESCO/UNDP Award: Paul G. Hoffman International Award, 1982, “for outstanding
 (a). Supervision of Ph.D Candidates
 
 
-## Research Completed
+### Research Completed
 
 (a)	Students unrest in Nigeria Post-Primary Schools 1975-1977
 (b)	The Attitude of Cattle Fulani Towards Formal Education, 1977-1978
@@ -117,7 +117,7 @@ UNESCO/UNDP Award: Paul G. Hoffman International Award, 1982, “for outstanding
 (l)	A survey of the settlement patterns of total movement Nomads in Numan LGA, (Adamawa State), Lau LGA (Taraba State), 1996. 
 (m)	Grazing Reserves Assessment in Northern Nigeria States. 1998. 
 
-## Publications
+### Publications
 
 **Books**
 
@@ -136,8 +136,8 @@ UNESCO/UNDP Award: Paul G. Hoffman International Award, 1982, “for outstanding
 **Monographs**
 
 10.	Ezeomah, C. (1979-1980). Strategies for Developing Nomadic Fulani Education in Bauchi State (A Study Conducted for Bauchi State Ministry of Education).
-11. Stragegies for Training Nomadic Teachers in Nigeria. [Commonwealth iLibrary](https://www.thecommonwealth-ilibrary.org/index.php/comsec/catalog/download/894/894/7579?inline=1); NOTE TO SELF - add pdf
-12.	Ezeomah, C. (1985) Work Roles of Nomadic Fulani Women: Implications for Educational Development. 140 pages
+11. Stragegies for Training Nomadic Teachers in Nigeria. [Commonwealth iLibrary](https://www.thecommonwealth-ilibrary.org/index.php/comsec/catalog/download/894/894/7579?inline=1);
+12.	Ezeomah, C. (1985). Work Roles of Nomadic Fulani Women: Implications for Educational Development. 140 pages [Open Library](https://openlibrary.org/works/OL4231167W/The_work_roles_of_nomadic_Fulani_women?edition=key%3A/books/OL2120176M)
 13.	Hesse, C., Ezeomah, C., Hassan U. A. and Ardo Aliyu Alhaji (1998). An Assessment of the Organisational Effectiveness of Pastoral Organisations in Northern Nigeria. A Report prepared for the Department of International Development (DFID). 
 
 **Technical Documents** 
@@ -149,7 +149,7 @@ UNESCO/UNDP Award: Paul G. Hoffman International Award, 1982, “for outstanding
 18.	Ezeomah C. Egbe E. N. (1988) Education of Nomadic Families: Language and Communication Aspect. Vol 4. UNDP/UNESCO/University of Jos Project. 
 19.	Ezeomah C., Adepelu A.A., Ihemegbulam V.C., Sikoki B.S. (1988) Education of Nomadic Families: Demographic Aspect. Vol. 5. UNDP/UNESCO/University of Jos Project.
 
-**Articles** 
+### Articles 
 
 20.	Ezeomah, C. (1978), Educating the Nomads: The Attitude of Cattle Fulani Towards Education. Journal of Commonwealth for Educational Administration, Australia. No. 12 September, pp 1-10
 21.	Ezeomah, C. (1978), The Implication of National Policies on Secondary Education; 1977 and 1978. Journal of Nigerian Association of Educational Administration and Planning. Convention and Workshop Papers. pp 111-123. 
@@ -171,13 +171,13 @@ UNESCO/UNDP Award: Paul G. Hoffman International Award, 1982, “for outstanding
 37.	Ezeomah, C. (1986) The Development of a Special, Type of Curriculum for Nomads of Nigeria. The Journal of Curriculum Theorizing. University of Wisconsin – Stout, USA pp 45 – 55
 38.	Ezeomah, C. (1987) Incorporating Education into Integrated Rural Development Scheme in Nomadic Fulbe Community. International Journal of Nomadic and Minority Education, Deanhouse Ltd, Cheshire, England. Vol I No 2. pp 1 – 17
 
-## Unpublished Works
+### Unpublished Works
 
 1. Ezeomah , C, Strategies for Developing Nomadic Education in Bauchi State: A Research Report Submitted to the Ministry of Education Bauchi State,
 (Unpublished, University of Jos, May 1980) p. 80.
 
 
-## Conferences Attended and Papers Presented
+### Conferences Attended and Papers Presented
 
 1.	Education Studies Association Conference, University of Ibadan, December 1976. Cause of Students Revolts in Nigerian Post-Primary Schools. 
 2.	Education Studies Association Conference, Ife University, December 1977. The Attitude of Cattle Fulani Towards Formal Education. 
@@ -201,7 +201,7 @@ UNESCO/UNDP Award: Paul G. Hoffman International Award, 1982, “for outstanding
 18.	Communication for Adult Basic Learning Seminar in Accra, Ghana, 2nd – 4th March 1995. Paper Presented: Communication Network within Nomadic Fulbe Cultural Setting.
 
 
-## National and International Responsibilities
+### National and International Responsibilities
 
 1.	Executive Editor of International Journal of Nomadic and Minority Education, Deanhouse Ltd. England. 
 2.	National Chief Technical Adviser (CTA) on UNESCO/UNDP Education of Nomadic Families Project, attracted to the University by my research and practical work in this field since 1976. 
@@ -214,7 +214,7 @@ UNESCO/UNDP Award: Paul G. Hoffman International Award, 1982, “for outstanding
 9.	Head, Department of Arts and Social Science Education, Faculty of Education, University of Jos, 1997 - 1998
 10. University of Jos Senate representative to the University Governing Council; Member May 2000 - August 2, 2002
 
-## Community Service
+### Community Service
 
 1.	Participation in the Organisation of Adult Education Programme for Nomadic Fulani in Miango, Bassa LGA, Safo, Gimbi and Damna, Wase LGA, Plateau State. 1971 - ?
 2.	Member of Junior Staff Screening Committee, University of Jos. 1986
