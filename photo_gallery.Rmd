@@ -142,7 +142,7 @@ output:
 
 <figure>
   <img src="images/pic54.jpg" alt="Photo 54">
-  <figcaption>Photo 26</figcaption>
+  <figcaption>Photo 26 - Prof. Ardo Chimah Ezeomah with Chief Emeka Anyaoku, GCON, GCVO, CFR at an event</figcaption>
 </figure>
 
 <figure>
