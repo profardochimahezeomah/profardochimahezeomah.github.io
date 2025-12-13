@@ -21,6 +21,8 @@ navbar:
       href: ugadi.html
     - text: "Students"
       href: students.html
+    - text: "Archive"
+      href: archive.html
     - text: "Acknowledgement"
       href: acknowledgement.html
 output:

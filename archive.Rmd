@@ -1,0 +1,34 @@
+---
+title: "Archive"
+author: "Curated by Chiomah Ezeomah, B.A (Uni at Buffalo); B.Sc (Uni at Buffalo); MSc (Cornell); MSc (Oxford)"
+date: "November 26, 2025" 
+output: 
+  html_document:
+    toc: true
+    toc_float: true
+    theme: flatly
+    css: "styles.css"
+---
+
+<h3 class="center-title">Official Launch of the FCT Chapter of the Nomadic Education Programme, Tuesday, July 12, 1988</h3>
+
+<div class="tribute-box">
+  <iframe 
+    src="pdfs/fctchapterlaunchnomadic1988.pdf#view=FitH" 
+    width="100%" 
+    height="600px" 
+    style="border:1px solid #556B2F; border-radius:10px;">
+  </iframe>
+</div>
+
+<h3 class="center-title">Unsigned Version of Valedictory Letter to the President at the Conclusion of Tenure as Inaugural Executive Secretary, National Commission for Nomadic Education (1994)</h3>
+
+<div class="tribute-box">
+  <iframe 
+    src="pdfs/appreciationletterpresident1994.pdf#view=FitH" 
+    width="100%" 
+    height="600px" 
+    style="border:1px solid #556B2F; border-radius:10px;">
+  </iframe>
+</div>
+
