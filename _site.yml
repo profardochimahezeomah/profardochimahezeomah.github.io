@@ -4,7 +4,7 @@ navbar:
   title: "Home"
   right:
     - text: "Curator's Note"
-      href: curatorsnote.html
+      href: curatorsnotes.html
     - text: "About"
       href: about.html
     - text: "Tributes"
