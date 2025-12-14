@@ -27,54 +27,83 @@ header-includes:
 
 <style>
 .tribute-box {
-  border: 4px solid #8E4585;       /* plum border */
-  border-radius: 10px;             /* rounded corners */
-  background-color: #f9f9f9;       /* light gray background */
-  padding: 20px;                   /* space inside the box */
-  margin: 20px 0;                  /* space around the box */
-  box-shadow: 2px 2px 12px rgba(0,0,0,0.1); /* subtle shadow */
+  border: 4px solid #8E4585;
+  border-radius: 10px;
+  background-color: #f9f9f9;
+  padding: 20px;
+  margin: 20px 0;
+  box-shadow: 2px 2px 12px rgba(0,0,0,0.1);
+}
+
+.center-title {
+  text-align: center;
+  font-size: 1.4em;
+  font-weight: bold;
+  margin: 1.5em 0 0.5em 0;
+}
+
+.tribute-photo img {
+  max-width: 100%;
+  display: block;
+  margin: 10px auto;
+}
+
+.tribute-title {
+  font-weight: bold;
+  font-size: 1.1em;
+  text-align: center;   /* ← THIS centers the title */
+}
+
+.byline {
+  text-align: center;
+  font-style: italic;
+}
+
+.author {
+  text-align: center;
+  font-weight: bold;
 }
 </style>
 
-<h3 class="center-title">University of Jos</h3>
+### University of Jos
 
 <div class="tribute-photo">
-  <img src="images/tributeuj.jpg" alt="Tribute Unijos Page 1 of 1">
+  <img src="images/tributeuj.jpg" alt="Tribute University of Jos">
 </div>
 
-<h3 class="center-title">National Commission for Nomadic Education</h3>
+### National Commission for Nomadic Education
 
 <div class="tribute-photo">
-  <img src="images/tributencne1.jpg" alt="NCNE Tribute Page 1 of 2">
-  <img src="images/tributencne2.jpg" alt="NCNE Tribute Page 2 of 2">
+  <img src="images/tributencne1.jpg" alt="NCNE Tribute Page 1">
+  <img src="images/tributencne2.jpg" alt="NCNE Tribute Page 2">
 </div>
 
-<h3 class="center-title">Dean, Faculty of Education, University of Jos</h3>
+### Dean, Faculty of Education, University of Jos
 
 <div class="tribute-photo">
   <img src="images/tributeujdean1.jpg" alt="Dean, Faculty of Education, Unijos Tribute Page 1 of 2">
   <img src="images/tributeujdean2.jpg" alt="Dean, Faculty of Education, Unijos Tribute Page 2 of 2">
 </div>
 
-<h3 class="center-title">Honorable Justice Chidiebere Nwaoma Uwa, JSC</h3>
+### Honorable Justice Chidiebere Nwaoma Uwa, JSC
 
 <div class="tribute-photo">
   <img src="images/tributehonjustice.jpg" alt="Tribute Hon. Justice Uwa Page 1 of 1">
 </div>
 
-<h3 class="center-title">Professor (Mrs) Viola Adaku Onwuliri</h3>
+### Professor (Mrs) Viola Adaku Onwuliri 
 
 <div class="tribute-photo">
   <img src="images/tributeprofvionwuliri.jpg" alt="Tribute Prof. VIO Onwuliri Page 1 of 1">
 </div>
 
-<h3 class="center-title">Ambassador (Prof) Mary N. Lar, OON</h3>
+### Ambassador (Prof) Mary N. Lar, OON
 
 <div class="tribute-photo">
   <img src="images/tributemlar.jpg" alt="Tribute Prof. Mary Lar Page 1 of 1">
 </div>
 
-<h3 class="center-title">Honorable (Dr) Kachallom Gang</h3>
+### Honorable (Dr) Kachallom Gang
 
 <div class="tribute-photo">
   <img src="images/tributehongang.jpg" alt="Tribute Honorable (Dr) Kachallom Gang Page 1 of 1">
@@ -84,36 +113,35 @@ header-includes:
 ### Brig. General Kingsley Chidiebere Uwa
 
 <div class="tribute-box">
-<div class="tribute-header">
-<p class="tribute-title">
-<strong>Tribute to Late Professor Chimah Ezeomah</strong>
-</div>
+  <p class="tribute-title">
+    <strong>Tribute to Late Professor Chimah Ezeomah</strong>
+  </p>
 
-The passing of Professor Chimah Ezeomah has stirred deep emotions and rekindled cherished memories of a man whose life was marked by grace, intellect, and uncommon humility. He was a rare breed, gentle yet firm, scholarly yet humane, humble yet full of quiet strength. His simplicity and sense of purpose reflected a man who lived not for himself but for others.
+  <p>
+    The passing of Professor Chimah Ezeomah has stirred deep emotions and rekindled cherished memories of a man whose life was marked by grace, intellect, and uncommon humility. He was a rare breed, gentle yet firm, scholarly yet humane, humble yet full of quiet strength. His simplicity and sense of purpose reflected a man who lived not for himself but for others.
 
 Professor Ezeomah was a source of pride, encouragement, and inspiration to me. He took a genuine interest in my career from the moment I enlisted in the Nigerian Defence Academy and followed my progress with fatherly affection and admiration. His presence at my convocation, commissioning, and passing-out parade was a testament to his deep belief in discipline, excellence, and the power of encouragement. I vividly recall his warm embrace and his prayerful words, which left an enduring imprint on my heart. His death is a great personal loss and a profound reminder of the transient nature of life. Yet, I find comfort in knowing that he lived meaningfully — imparting knowledge, nurturing relationships, and leaving behind a legacy that will stand the test of time. He exemplified the quiet dignity of a teacher whose lessons extended far beyond the classroom, touching hearts and shaping destinies. I pray that the Almighty God grants his noble soul eternal rest and comforts the entire family. May the virtues he embodied — humility, wisdom, and love — continue to guide and unite all who were privileged to know him. 
 
-Adieu to a great mentor, scholar, and father figure. 
+Adieu to a great mentor, scholar, and father figure.
+  </p>
 
-**Brigadier General Kingsley Chidiebere Uwa** 
-
-*Commander 6 Brigade / Sector 3 Operation Whirl Stroke*
-
+  <p><strong>Brigadier General Kingsley Chidiebere Uwa</strong><br>
+  <em>Commander 6 Brigade / Sector 3 Operation Whirl Stroke</em></p>
 </div>
 
 
 ### Prof. Ode Ojowu, OFR
 
 <div class="tribute-box">
-<div class="tribute-header">
-<p class="tribute-title">
-<strong>Tribute to Professor Chimah Ezeomah (1932–2025):</strong><br>
-A Visionary of Nomadic Education and a True Nigerian
-</p>
-<p class="byline">By</p>
-<p class="author">Prof. Ode Ojowu, OFR</p>
-</div>
+  <p class="tribute-title">
+    <strong>Tribute to Professor Chimah Ezeomah (1932–2025):</strong><br>
+    A Visionary of Nomadic Education and a True Nigerian
+  </p>
 
+  <p class="byline">By</p>
+  <p class="author">Prof. Ode Ojowu, OFR</p>
+
+  <p>
 Prof. Chimah Ezeomah was more than a scholar; he was a pioneer whose intellectual passion and humanity shaped one of the most remarkable educational innovations in Nigeria: the Nomadic Education Programme. As a Professor of Educational Administration and Planning at the University of Jos, he stood at the intersection of research and national service, translating years of study and field engagement among the Fulani communities into a practical, nationwide educational movement. Amongst his groundbreaking works – The Education of the Nomads: The Fulani of Northern Nigeria (1983), and Strategies for Training Nomadic Teachers in Nigeria (1985) – remain foundational references for policymakers and educators in mobile and marginalized populations. His UNESCO/UNDP Paul G. Hoffman International Award in 1982 was a global recognition of a Nigerian scholar whose ideas were ahead of their time. 
 
 My personal connection with Prof. Ezeomah began in the 1990s when we were colleagues and neighbours at the University of Jos Staff Quarters. I remember his calm intellect and his deep concern for fairness and national unity. To many of us, he was not only a mentor, but also a neighbour who embodied the ideals he taught: integrity, service, and respect for humanity. Born in Umuahia in Eastern Nigeria, he lived and worked across the country, finally spending his final days in Akure, Ondo State – a quiet testament to his pan-Nigerian spirit. 
@@ -123,11 +151,12 @@ Prof. Ezeomah lived a life devoted to education as a tool for inclusion and nati
 Rest well, our teacher, neighbour, and patriot. Nigeria remembers you. 
 
 **October 27,2025**
+  </p>
 
-  </div>
+  <p><strong>October 27, 2025</strong></p>
+</div>
 
-
-<h3 class="center-title">Prof. Peter Lassa, OON</h3>
+### Prof. Peter Lassa, OON
 
 <div class="tribute-photo">
   <img src="images/tributeproflassa1.jpg" alt="Prof Lassa Tribute Page 1 of 2">
@@ -138,13 +167,12 @@ Rest well, our teacher, neighbour, and patriot. Nigeria remembers you.
 ### Prof. Monday Mangvwat
 
 <div class="tribute-box">
-<div class="tribute-header">
-<p class="tribute-title">
-<strong>TRIBUTE TO A HIGHLY RESPECTED SCHOLAR AND EDUCATIONIST:</strong><br>
-THE LATE PROFESSOR CHIMAH EZEOMAH (”ARDO”) OF UNIJOS.
-</p>
-</div>
+  <p class="tribute-title">
+    <strong>TRIBUTE TO A HIGHLY RESPECTED SCHOLAR AND EDUCATIONIST:</strong><br>
+    THE LATE PROFESSOR CHIMAH EZEOMAH (”ARDO”) OF UNIJOS.
+  </p>
 
+ <p>
 As I put down these few words of tribute to the late senior colleague. I imagine what might have been his last words with his Maker, thanking Him for living a fulfilled life? I imagine so. Surely, at the University of Jos, to which he devoted over 90% of his quality life, the late professor C. Ezeomah (”Ardo”) made a tremendous impact on that University both institutionally and individually. Having attained the rank of Professorship, which made him an automatic member of the senate—the highest academic body of the University—he, in addition, held several key positions of responsibility within the University. For example, at various periods he was Head of Department of Arts and Social Sciences Education; Dean of Education; Director and Head of Research, Centre for Nomadic Education (on which I’ll say a little more); and Senate Representative on the Governing Council of the University – the highest policy–making body of the university. All these were in addition to his normal teaching and research responsibilities, including project supervision of students at both undergraduate and postgraduate levels, not to mention mentoring of younger academics undergoing tutelage. It is in the process of successfully discharging these critical responsibilities in the university that Professor Ezeomah, in my view, must have felt fulfilled before his Creator. Humanly speaking and on account of what I personally knew of him, along with testimonies from other colleagues, I believe this to be the case. What more would we want from him? He came; he saw; and he conquered!!!
                     
 Yet, there is still a particularly unique area of intellectual, academic, and practical area of scholarship, research, and practice attributable to him which posterity should acknowledge. This is in the area of NOMADIC EDUCATION, which I mentioned earlier: Only God Almighty, through Prof. Ezeomah’s intellectual curiosity, would understand why a typical Igbo Professor from Abia State of Nigeria would devote so much intellectual energy to try to understand and assist the Nigerian Fulani way of life. This is why he became known as Ardo – a Fulbe word for Fulani Clan headman or leader. His doctoral thesis focused on developing strategies for the education of cattle Fulani communities in Nigeria. This work became the foundational reference base for developing policy and programme initiatives pertaining to the education of Fulani nomads and other mobile pastoralist groups in Nigeria in the 1970s and 1980s. He personally led significant and landmark studies on Fulani access to schooling and curriculum design. In recognition of his pioneering work on Fulani nomadic education, he was invited to serve on several international bodies dealing with pastoralist and nomadic education, and he was appointed the pioneer Executive Secretary, National Commission for Nomadic Education. This Commission itself came into being as part of his recommendation to the Federal Government, keenly supported by Professor Jibril Aminu and Professor Babs Fafunwa, who were successive Federal Ministers of Education under whom he served.
@@ -156,6 +184,8 @@ Well done ARDO!!!  REST IN PERFECT PEACE.
 **Professor Monday Y. Mangvwat** 
                                                                                                 
 *(Former Vice Chancellor-University of Jos) (2000 - 2006)*
+
+</p>
                                                                                                 
 </div>
 
@@ -163,12 +193,11 @@ Well done ARDO!!!  REST IN PERFECT PEACE.
 ### Prof. John Idoko
 
 <div class="tribute-box">
-<div class="tribute-header">
-<p class="tribute-title">
-<strong>TRIBUTE TO PROFESSOR ARDO CHIMAH EZEOMAH</strong>
-</div>
+  <p class="tribute-title">
+    <strong>TRIBUTE TO PROFESSOR ARDO CHIMAH EZEOMAH</strong>
+  </p>
 
-
+ <p>
 It is an honor to write this tribute to Ardo Chimah Ezeomah, a former senior colleague, husband, father, and grandfather.
 I first met Professor Ezeomah when I was the Deputy Vice Chancellor of the University of Jos in the mid 90s when he was leading the national eductianal programme for nomadic fulanis. He was a wam gentleman, very amiable and full of humour. With time, we discovered that we were neighbours at the Senior Staff Quarters and our children became friends and playmates.
 
@@ -189,17 +218,17 @@ And so, today we honor him by profoundly feeling and expressing our loss, but al
 *Former Deputy Vice Chancellor (1994 - 1998), University of Jos,*
 
 *Former Director General, National Agency for the Control of AIDS*
-
+ </p>
 </div>
 
 ### Prof. Joseph Maina Musa, FPEAN
 
 <div class="tribute-box">
-<div class="tribute-header">
-<p class="tribute-title">
-<strong>TRIBUTE</strong>
-</div>
+  <p class="tribute-title">
+    <strong>TRIBUTE</strong>
+  </p>
 
+ <p>
 As the immediate passed Dean of the Faculty of Education, I deem it fit to drop some few lines as tribute to late Prof. Ezeomah who was in the Educational Management Unit , Department of Educational Foundations , Faculty of Education , University of Jos.
 
   As a one time Director of Nomadic Education , he was honored with the Fulani title of "Ardo". As the Director and Ardo , Prof Ezeomah left no stone unturned in ensuring that Fulanis gained access to quality Western education. His efforts yielded much harvest as he presented Fulani university graduates to the University of Jos community.
@@ -214,21 +243,21 @@ As the immediate passed Dean of the Faculty of Education, I deem it fit to drop 
 **Prof. Joseph Maina Musa, FPEAN.**
 
 *Former Dean Faculty of Education (2021 to 2024)*
-
+</p>
 </div>
 
 ### Jason Pennells
 
 <div class="tribute-box">
-<div class="tribute-header">
-<p class="tribute-title">
-<strong>Memories of Prof Ardo Chimah Ezeomah</strong>
-</p>
-<p class="byline">By</p>
+  <p class="tribute-title">
+    <strong>Memories of Prof Ardo Chimah Ezeomah</strong>
+  </p>
+
+  <p class="byline">By</p>
 <p class="author">From Jason Pennells</p>
 <p class="author">4 November 2025</p>
-</div>
 
+<p>
 I was saddened to hear of the recent death of my friend and former colleague, Prof Ardo Chimah Ezeomah. However, I feel this is a time predominantly for celebration of his long life well lived: Chimah was already a senior statesman in the field of nomadic education in Nigeria by the time he and I first met and started working together nearly three decades ago, in 1997. He had by then made his mark professionally, as well as in his personal family life.
 
 Our working and personal relationship grew and evolved from an initial, potentially single, meeting, when I was asked to come to Nigeria for a one-week familiarisation and planning visit in order to design a month’s study tour and course in the UK for a small group of Nigerian educators who were to be involved in developing a programme to train basic teachers for nomadic youth. This was part of a community education project of the British Council with UK (Overseas Development Administration, ODA) funding support.
@@ -254,18 +283,17 @@ That ODA-funded project was short-term, for a proof of concept, supporting the c
 Chimah and I also worked together on a UK Department for International Development (DFID)-funded study on nomadic education issues and policy implications, in a team with members of the Maiduguri/Yola group, NCNE, and a colleague from NCNE’s migrant fisherfolk centre in Port Harcourt. This study included two conferences held in Abuja with wider participation, including education organisations in Nigeria, pastoralist NGOs, and guests with engagement in nomadic education from Sudan and Kenya.
 
 The last time I passed through Jos with Chimah, he took me to a tailor and had an Igbo suit made for me. I was delighted later to have the opportunity to wear this for the evening of a British Igbo wedding. Sadly, Chimah and I never undertook our planned trip over the Mambilla Plateau after a work visit to Adamawa and Taraba, to visit his home in Abia State. Nevertheless, I hold in my mind his voice, his laughter, his piercing look, the warmth of his greeting each time we met, and his generosity of spirit. I cheer his commitment to the cause of the education and welfare of nomadic people. I feel privileged to have known and worked with Professor Ardo Chimah Ezeomah, and to have counted him as a friend.
-
+</p>
 </div>
 
 ### Prof. Gilbert C. Okechukwu
 
 <div class="tribute-box">
-<div class="tribute-header">
-<p class="tribute-title">
-<strong>Prof. Chimah Ezeomah - A Tribute</strong>
-</div>
+  <p class="tribute-title">
+    <strong>Prof. Chimah Ezeomah - A Tribute</strong>
+  </p>
 
-
+ <p>
 I write to express my sorrow at the passing and loss of my friend and colleague – Prof. Chimah Ezeomah (B. Ed., M.Ed., Ph. D.), Prof. of Education at the University of Jos, Plateau State. 
 
 I met Prof. Chimah Ezeomah some 40 years ago at Jos when we became lecturers and later, Professors – Prof. Ezeomah in the Faculty of Education, and I, in the Faculty of Environmental Sciences. 
@@ -275,17 +303,17 @@ Prof. Ezeomah is to be remembered for being someone to depend on; someone who ma
 Prof. Chimah Ezeomah was my neighbour at the Narraguta Permanent Site Staff Quarters of the University of Jos, and my family is deeply touched by his death. I wish the Ezeomah family will take heart, and pray that God, in His infinite mercy, grant Chimah peace and eternal rest. 
 
 **Prof. Gilbert C. Okechukwu**
-
+</p>
 </div>
 
 ### Prof. Akueshi
 
 <div class="tribute-box">
-<div class="tribute-header">
-<p class="tribute-title">
-<strong>Tribute to a Departed Friend</strong>
-</div>
+  <p class="tribute-title">
+    <strong>Tribute to a Departed Friend</strong>
+  </p>
 
+ <p>
 One of South Africa’s finest sons and, indeed, the world’s most admired leader of the later 20th century captured the inevitability of death when he said of himself, “Death is something inevitable. When a man has done what he considers to be his duty to his people and his country, he can rest in peace. I believe I have made that effort, and that is, therefore, why I will sleep for eternity.” (Nelson Madela, 1994). 
 
 I can imagine that Prof. Ardo Chimah Ezeomah must have thought like this in the last few months of his life while battling with age-related ailments. Prof. Ezeomah, undoubtedly, lived a fulfilled and well-accomplished life. He served his family, his community, the University of Jos, and his country, Nigeria, faithfully and meritoriously. Prof. Ezeomah was very humble and simple, and enjoyed life with quiet dignity that eschews every form of ostentation. Indeed, his mien was pervaded with humanity. 
@@ -304,18 +332,17 @@ Unfortunately, the cold hands of death have snatched this gentleman from us. Yet
 Prof. Ezeomah is gone, but his legacies still endure. May God grant his gentle soul a peaceful repose, and give the Ezeomah family, friends, in-laws, and well-wishers the fortitude to bear this sad loss. 
 
 **Prof. and Mrs. Chiedo O. Akueshi.**
-
+</p>
 </div>
 
 ### Prof. J. Nnamdi Aduba
 
 <div class="tribute-box">
-<div class="tribute-header">
-<p class="tribute-title">
-<strong>FAREWELL TO PROF CHIMAH EZEOMAH (ARDO)</strong>
-</div>
+  <p class="tribute-title">
+    <strong>FAREWELL TO PROF CHIMAH EZEOMAH (ARDO)</strong>
+  </p>
 
-
+ <p>
 Writing about an elderly friend in the past tense is sad but one is comforted by the fact that he lived a very fulfilled life having surpassed the proverbial 70 years. 
 
 The iroko has fallen indeed. By the time I knew him in1990, he was already a professor, a reknowned one indeed. A leading expert in nomadic education. Our friendship was on a social level when I was the chairman of the University of Jos Staff club where most academics gather to relax. 
@@ -328,20 +355,20 @@ It was with heavy heart that I received the news that he has gone to be with his
 May God welcome him into paradise. Adieu Ardo.
 
 **Prof  J. Nnamdi Aduba (Nnabuenyi).**
-
+</p>
 </div>
 
 ### Professor Ihenacho Izuka John
 
 <div class="tribute-box">
-<div class="tribute-header">
-<p class="tribute-title">
-<strong>ODE TO THE GRAND COMMANDER OF INTELLIGENCE, PROFESSOR CHIMAH EZEOMAH</strong>
-</p>
-<p class="byline">By</p>
-<p class="author">PROFESSOR IHENACHO IZUKA JOHN, UNIVERSITY OF JOS</p>
-</div>
+  <p class="tribute-title">
+    <strong>ODE TO THE GRAND COMMANDER OF INTELLIGENCE, PROFESSOR CHIMAH EZEOMAH</strong>
+  </p>
 
+  <p class="byline">By</p>
+<p class="author">PROFESSOR IHENACHO IZUKA JOHN, UNIVERSITY OF JOS</p>
+
+<p>
 The legend of the legends and the Professor of the Professor of professors. Professor Chimah Ezeomah is an individual worth millions of individuals. He exuded strength and poured out energy that surpassed the ordinary human strength which showed in his lectures. I met him as a Youth Corper at the University of Jos. He was already an Associate Professor when the rest of his senior mates were writing strugglers. A few years later, he ascended the stool of professorship in grand style. One can hear the mullings of his past and current students calling him an intellectual workaholic. One can see Professor Ezeomah coming out from his office and lecture halls with groups of students following him in batches tapping from his further explanatory notes, the ideas which quite often few are rarely found in textbooks but are in the textbook of life experiences acquired over time. 
 
 I admired him a lot. 
@@ -355,10 +382,10 @@ In conclusion, Professor Chimah Ezeomah was an accomplished researcher, noble He
 *Professor Ihenacho Izuka John*
 
 *University of Jos*
-
+</p>
 </div>
 
-<h3 class="center-title">Prof. Godwin Owoicho Akpa, Ph.D.</h3>
+### Prof. Godwin Owoicho Akpa, Ph.D. 
 
 <div class="tribute-photo">
   <img src="images/tributeprofagba.jpg" alt="Tribute Prof. Owoicho Akpa Page 1 of 1">
@@ -368,11 +395,11 @@ In conclusion, Professor Chimah Ezeomah was an accomplished researcher, noble He
 ### Prof. Adamu I. Ayiya Obiukwu
 
 <div class="tribute-box">
-<div class="tribute-header">
-<p class="tribute-title">
-<strong>TRIBUTE TO A QUINTESSENTIAL ACADEMIC IROKO</strong>
-</div>
+  <p class="tribute-title">
+    <strong>TRIBUTE TO A QUINTESSENTIAL ACADEMIC IROKO</strong>
+  </p>
 
+ <p>
 I find it very difficult and heart-breaking to write your tribute. In remembrance of the fulfilled life that God blessed you with, my childhood memory of your early life was when you brought the Army Band to play in Umuezehiri Hall when you were a Captain of the Biafran Army, which I had never seen before.
 
 Our ways crossed again at the University of Jos, where you embedded your scholarly name as the FIRST Professor of Nomadic Education in Nigeria. You were my mentor who always encouraged me with your usual advice of “Nwanna anyi idi kwani Ole,” which has constantly kept me on my toes, bearing in mind my humble background. You have lived a fulfilled life and left indelible marks in many aspects of life and in the sand of time. 
@@ -380,10 +407,10 @@ Our ways crossed again at the University of Jos, where you embedded your scholar
 ADIEU MY MENTOR.
 
 **Professor Adamu I. Ayiya Obiukwu**
-
+</p>
 </div>
 
-<h3 class="center-title">Prof. Okeahialam</h3>
+### Prof. Okeahialam
 
 <div class="tribute-photo">
   <img src="images/tributeokeahialam.jpg" alt="Tribute Prof. Okeahialam Page 1 of 1">
@@ -392,27 +419,25 @@ ADIEU MY MENTOR.
 ### Dr. James Bature 
 
 <div class="tribute-box">
-<div class="tribute-header">
-<p class="tribute-title">
-<strong>A TRIBUTE TO PROFESSOR CHIMAH EZEOMAH</strong>
-</div>
+  <p class="tribute-title">
+    <strong>A TRIBUTE TO PROFESSOR CHIMAH EZEOMAH</strong>
+  </p>
 
+ <p>
 I walked into your life as a supervisee, not knowing what will befall me. No sooner the engagement between a supervisor and supervisee started, did the attributes of the supervisor in you begin to manifest. You were very thorough, patient and accommodating but not tolerating laziness nor accepting sub-standard presentations. You were very accessible, in spite of the quantum of work around you. You acknowledged my visits to you both in the office and at your home; and attended to me soon thereafter. I did not take your humility and accepting me into your family for granted. You were indeed a mentor and not just a supervisor. The impact you made in my life will long be remembered and appreciated. 
 Rest in Peace Prof. Chimah Ezeomah
 
 *Dr. James Bature*
-
-
+</p>
 </div>
 
 ### Kayode Sanni 
-
 <div class="tribute-box">
-<div class="tribute-header">
-<p class="tribute-title">
-<strong>Tribute to Professor (Ardo) Chimah Ezeomah</strong>
-</div>
+  <p class="tribute-title">
+    <strong>Tribute to Professor (Ardo) Chimah Ezeomah</strong>
+  </p>
 
+ <p>
 A Life of Commitment – ensuring that generations of children always on the move are never left behind. I am honoured to honour the cherished memory of Professor (Ardo) Chimah Ezeomah—renowned scholar, indefatigable teacher, and relentless pioneer whose life’s work on education of nomadic peoples changed how Nigeria, and other nations with pastoralist terrains and populations, think about educating children who travel with the seasons.
 
 Throughout his journey of service, Prof. Ezeomah carried himself with distinction, uniquely blending the intellectual rigour of life in academia with (unusual for academics) deep cultural empathy built from breathing and living in step with his research participants. He always listened first—to pastoralist families, to teachers on dusty roads with no resources, to officials wrestling with policy—and helped build bridges between them. His scholarship on nomadic education gave language, data, and dignity to communities too often left out of the school map. From his years at the University of Jos to his influential work with UNESCO and Nigerian education authorities, he insisted that learning must go to the child wherever she may be, not the other way round.
@@ -424,18 +449,16 @@ To his students and colleagues, he was a mentor; to the families he served, an a
 We commend his gentle spirit and towering intellect to God, and we aspire to carry forward the work he began. Farewell, Prof. Ezeomah. May the roads you championed for learners now lead you to perfect rest and peace. Amen.
 
 *—	Kayode Sanni, 3 Nov 2025*
-
+</p>
 </div>
 
 ### Dr. Damina Mohammed Sadiq
-
 <div class="tribute-box">
-<div class="tribute-header">
-<p class="tribute-title">
-<strong>Tribute to Late Prof. Ardo Chimah Ezeomah: The Father of Nomadic Education in Nigeria.</strong>
-</div>
+  <p class="tribute-title">
+    <strong>Tribute to Late Prof. Ardo Chimah Ezeomah: The Father of Nomadic Education in Nigeria.</strong>
+  </p>
 
-
+ <p>
 Prof. Ardo Chimah Ezeomah was a household name among nomadic Fulani communities in Nigeria as he was the master key that granted them access to formal education through the establishment of nomadic education in Nigeria. He was a father and pillar to every nomadic child in the country and today we are sadly mourning the passing of a loving and caring father. He committed his entire life to ensuring people were treated equally without regard to their tribe, religion or family background and this was the reason that led him to the idea of a special education programme for the nomads due to their transhumance nature and inability to access the conventional system of education. 
 
 Dear Prof., I remember very well how you personally drove me in your car from Jos to Maiduguri just to secure admission for me to study veterinary Medicine at the University of Maiduguri. Today, I proudly say that I am a trained veterinarian working at the famous National Veterinary Institute, Vom, Plateau State, as you ensured I never lacked anything throughout my study period. e are all witnesses that you lived your entire life loving and supporting others, and you lived to shine the light on the nomadic children in Nigeria who have been left in the dark for decades.
@@ -448,22 +471,22 @@ Prof. was a caring dad to all of us. I pray and hope that we all will be able to
 *National Veterinary Research Institute, Vom*
 
 *Plateau State*
-
+</p>
 </div>
 
-<h3 class="center-title">Nzuko Mahadum</h3>
+### Nzuko Mahudum
 
 <div class="tribute-photo">
   <img src="images/mahadum.jpg" alt="Tribute Nzuko Mahadum Page 1 of 1">
 </div>
 
-<h3 class="center-title">University of Nigeria, Nsukka Alumni Association</h3>
+### University of Nigeria, Nsukka Alumni Association
 
 <div class="tribute-photo">
   <img src="images/tributeunaa.jpg" alt="Tribute University of Nigeria, Nsukka Alumni Association Page 1 of 1">
 </div>
 
-<h3 class="center-title">University of Jos Alumni Association</h3>
+### University of Jos Alunmi Association
 
 <div class="tribute-photo">
   <img src="images/condolenceujalumni.jpg" alt="Condolence University of Jos Alumni Association Page 1 of 1">
