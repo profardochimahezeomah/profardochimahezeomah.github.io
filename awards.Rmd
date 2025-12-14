@@ -1,5 +1,5 @@
 ---
-title: "Awards and Honors - Prof. Ardo Chimah Ezeomah"
+title: "Recognitions and Speaking Engagements- Prof. Ardo Chimah Ezeomah"
 author: "Curated by Chiomah Ezeomah, B.A (Uni at Buffalo); B.Sc (Uni at Buffalo); MSc (Cornell); MSc (Oxford)"
 date: "November 26, 2025" 
 output: 
@@ -8,6 +8,16 @@ output:
     toc_float: true
     theme: flatly
     css: "styles.css"
+header-includes:
+  - |
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-9MJGP8FYXZ"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+      gtag('config', 'G-9MJGP8FYXZ');
+    </script>
 ---
 
 
@@ -21,4 +31,10 @@ output:
 
 <div class="award-photo">
   <img src="images/dadunaaaward.jpg" alt="Professor Ardo Chimah Ezeomah">
+</div>
+
+<h3 class="center-title">University of Nigeria, Nsukka Alumni Association - Jos Branch; Guest Speaker, 1995 Annual Lecture (September 29, 1995)</h3>
+
+<div class="award-photo">
+  <img src="images/dadguestspeakerunaa.jpg" alt="Professor Ardo Chimah Ezeomah">
 </div>

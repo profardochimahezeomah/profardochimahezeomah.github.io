@@ -9,6 +9,16 @@ output:
     number_sections: true
     theme: flatly          # MUST specify a theme for toc_float
     css: "styles.css"
+header-includes:
+  - |
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-9MJGP8FYXZ"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+      gtag('config', 'G-9MJGP8FYXZ');
+    </script>
 ---
 
 ### Life in Picture
@@ -335,6 +345,66 @@ output:
   <figcaption>Photo 64 </figcaption>
 </figure>
 
+<figure>
+  <img src="images/pic137.jpg" alt="Photo 65">
+  <figcaption>Photo 65 - Prof. Ardo Chimah Ezeomah with Jason Pennells at the Nomadic Education Research Workshop: Issues and Policy Implications; August 14th-15th 2002, Rock View Hotel, Abuja </figcaption>
+</figure>
+
+<figure>
+  <img src="images/pic142.jpg" alt="Photo 66">
+  <figcaption>Photo 66 - UK Government Department for International Development (DFID) funded Community Education Programme Planning Workshop; Aprol 16th - 17th, 1998; Rockview Hotel, Abuja </figcaption>
+</figure>
+
+<figure>
+  <img src="images/pic139.jpg" alt="Photo 67">
+  <figcaption>Photo 67 </figcaption>
+</figure>
+
+<figure>
+  <img src="images/pic145.jpg" alt="Photo 68">
+  <figcaption>Photo 68 </figcaption>
+</figure>
+
+<figure>
+  <img src="images/pic140.jpg" alt="Photo 69">
+  <figcaption>Photo 69 </figcaption>
+</figure>
+
+<figure>
+  <img src="images/pic141.jpg" alt="Photo 70">
+  <figcaption>Photo 70 </figcaption>
+</figure>
+
+<figure>
+  <img src="images/pic138.jpg" alt="Photo 71">
+  <figcaption>Photo 71 - Prof. Ardo Chimah Ezeomah at the Nomadic Education Research Workshop: Issues and Policy Implications; August 14th-15th 2002, Rock View Hotel, Abuja</figcaption>
+</figure>
+
+<figure>
+  <img src="images/pic150.jpg" alt="Photo 72">
+  <figcaption>Photo 72 - Prof. Ardo Chimah Ezeomah as the 8th Dean of the Faculty of Education, University of Jos </figcaption>
+</figure>
+
+<figure>
+  <img src="images/pic146.jpg" alt="Photo 73">
+  <figcaption>Photo 73 </figcaption>
+</figure>
+
+<figure>
+  <img src="images/pic149.jpg" alt="Photo 74">
+  <figcaption>Photo 74 </figcaption>
+</figure>
+
+<figure>
+  <img src="images/pic152.jpg" alt="Photo 75">
+  <figcaption>Photo 75 - Prof. Chimah Ezeomah (circa 1988) </figcaption>
+</figure>
+
+<figure>
+  <img src="images/pic151.jpg" alt="Photo 76">
+  <figcaption>Photo 76 - Prof. Ardo Chimah Ezeomah, May 15, 2021</figcaption>
+</figure>
+
 </div>
 
 
@@ -343,68 +413,68 @@ output:
 <div class="photo-grid">
 
 <figure>
-  <img src="images/pic24.jpg" alt="Photo 65">
-  <figcaption>Photo 65</figcaption>
-</figure>
-
-<figure>
-  <img src="images/pic25.jpg" alt="Photo 66">
-  <figcaption>Photo 66</figcaption>
-</figure>
-
-<figure>
-  <img src="images/pic26.jpg" alt="Photo 67">
-  <figcaption>Photo 67</figcaption>
-</figure>
-
-<figure>
-  <img src="images/pic27.jpg" alt="Photo 68">
-  <figcaption>Photo 68</figcaption>
-</figure>
-
-<figure>
-  <img src="images/pic28.jpg" alt="Photo 69">
-  <figcaption>Photo 69</figcaption>
-</figure>
-
-<figure>
-  <img src="images/pic29.jpg" alt="Photo 70">
-  <figcaption>Photo 70</figcaption>
-</figure>
-
-<figure>
-  <img src="images/pic30.jpg" alt="Photo 71">
-  <figcaption>Photo 71</figcaption>
-</figure>
-
-<figure>
-  <img src="images/pic32.jpg" alt="Photo 72">
-  <figcaption>Photo 72</figcaption>
-</figure>
-
-<figure>
-  <img src="images/pic33.jpg" alt="Photo 73">
-  <figcaption>Photo 73</figcaption>
-</figure>
-
-<figure>
-  <img src="images/pic34.jpg" alt="Photo 74">
-  <figcaption>Photo 74</figcaption>
-</figure>
-
-<figure>
-  <img src="images/pic35.jpg" alt="Photo 75">
-  <figcaption>Photo 75</figcaption>
-</figure>
-
-<figure>
-  <img src="images/pic40.jpg" alt="Photo 76">
-  <figcaption>Photo 76</figcaption>
-</figure>
-
-<figure>
-  <img src="images/pic85.jpg" alt="Photo 77">
+  <img src="images/pic24.jpg" alt="Photo 77">
   <figcaption>Photo 77</figcaption>
+</figure>
+
+<figure>
+  <img src="images/pic25.jpg" alt="Photo 78">
+  <figcaption>Photo 78</figcaption>
+</figure>
+
+<figure>
+  <img src="images/pic26.jpg" alt="Photo 79">
+  <figcaption>Photo 79</figcaption>
+</figure>
+
+<figure>
+  <img src="images/pic27.jpg" alt="Photo 80">
+  <figcaption>Photo 80</figcaption>
+</figure>
+
+<figure>
+  <img src="images/pic28.jpg" alt="Photo 81">
+  <figcaption>Photo 81</figcaption>
+</figure>
+
+<figure>
+  <img src="images/pic29.jpg" alt="Photo 82">
+  <figcaption>Photo 82</figcaption>
+</figure>
+
+<figure>
+  <img src="images/pic30.jpg" alt="Photo 83">
+  <figcaption>Photo 83</figcaption>
+</figure>
+
+<figure>
+  <img src="images/pic32.jpg" alt="Photo 84">
+  <figcaption>Photo 84</figcaption>
+</figure>
+
+<figure>
+  <img src="images/pic33.jpg" alt="Photo 85">
+  <figcaption>Photo 85</figcaption>
+</figure>
+
+<figure>
+  <img src="images/pic34.jpg" alt="Photo 86">
+  <figcaption>Photo 86</figcaption>
+</figure>
+
+<figure>
+  <img src="images/pic35.jpg" alt="Photo 87">
+  <figcaption>Photo 87</figcaption>
+</figure>
+
+<figure>
+  <img src="images/pic40.jpg" alt="Photo 88">
+  <figcaption>Photo 88</figcaption>
+</figure>
+
+<figure>
+  <img src="images/pic85.jpg" alt="Photo 89">
+  <figcaption>Photo 89</figcaption>
 </figure>
 
 </div>
